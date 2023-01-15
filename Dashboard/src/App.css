@@ -1,0 +1,12 @@
+.navButtons,
+.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root {
+  margin: 0px 10px;
+  border-radius: 10px !important;
+
+  /* border: solid 1px red; */
+}
+
+.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root:hover {
+  color: blueviolet;
+}
+.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root
